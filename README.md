@@ -9,6 +9,9 @@ brand: name of target brand,
 choose_one: label of the tweet wrt to the target brand, either "Churny" or "Non-churny", and
 choose_one:confidence: a value c=<1.0 showing the aggregated confidence of the judgements
 
+the "tids" file contains ids of all tweets in the dataset. 
+
+Twitter developer agreement & policy doesn't allow shareing tweet content. Reach out to Hadi Amiri at [hadi_amiri@uml.edu] if you'd like to obtain access to the full dataset. 
  
 # Publication
 Hadi Amiri and Hal Daumé III, Short Text Representation for Detecting Churn in Microblogs. AAAI 2016. PDF
