@@ -4,9 +4,9 @@ The dataset contains labeled tweets about three telco brands: Verizon, AT&T, and
 # Data Description
 
 - uid: user id
-- tid: tweet id,
-- brand: name of target brand,
-- choose_one: label of the tweet wrt to the target brand, either "Churny" or "Non-churny", and
+- tid: tweet id
+- brand: name of target brand
+- choose_one: label of the tweet wrt to the target brand, either "Churny" or "Non-churny"
 - choose_one:confidence: a value c=<1.0 showing the aggregated confidence of the judgements
 
 Twitter developer agreement & policy doesn't allow shareing tweet content. Reach out to Hadi Amiri at hadi_amiri@uml.edu if you'd like to obtain access to the full dataset. 
