@@ -1,8 +1,7 @@
-# Churn dataset for Churn Prediction in Social Media
-
+# Churn Dataset
 The dataset contains labeled tweets about three telco brands: Verizon, AT&T, and T-Mobile. Tweet are labeled as churny or not-churny, where churny tweets indicate a high risk of canceling the brand's service. Labels are obtained through crowdsourcing and each tweet is labeled by at least three annotators. Fleiss’ kappa is 0.62, which indicates substantial agreement among annotators. 
 
-# Description of some of the fields in the dataset:
+# Data Description:
 
 uid: user id,
 tid: tweet id,
